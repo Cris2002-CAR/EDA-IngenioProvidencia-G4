@@ -60,3 +60,10 @@ Justificación de las decisiones tomadas durante la transformación y preprocesa
 
 
 Entregable EDA: En grupos de exclusivamente tres o cuatro estudiantes deben entregar un reporte en PDF con los nombres de los integrantes. En esta primera parte no deben entregar modelos ajustados, deben entregar sólo el EDA, una descripción detallada del proceso  que llevaron a cabo y el análisis preparatorio de los datos para ser entregados a los modelos. 
+
+
+### Entregable 2: Modelos de regresion y clasificacion
+
+Entregable Modelos: En grupos de exclusivamente tres o cuatro estudiantes deben entregar un reporte en PDF (no mas de cuatro páginas) con los nombres de los integrantes. En esta segunda parte deben entregar la descripción de al menos tres modelos distintos ajustados,  el reporte debe tener una comparación detallada de las métricas,  una de ellas debe ser kappa, una explicación de la elección de estas, debe hacer una selección de los mejores hiperparámetros de cada uno de los modelos, debe elegir el mejor modelo con base en algún criterio fundamentado y finalmente debe hacer un análisis de sus resultados en el contexto de negocio.
+
+Nota: el notebook fue actualizado con los modelos 
